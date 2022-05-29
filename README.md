@@ -6,7 +6,7 @@ Authors: Dong Zhang, Guang Yang, Shu Zhao, Yanping Zhang, Dhanjoo Ghista, Heye Z
 ## Introduction
 This repository provides the implementation of HEAL for direct quantification of coronary artery stenosis in the following paper:  
 
-[**Direct Quantiﬁcation of Coronary Artery Stenosis Through Hierarchical Attentive Multi-View Learning**]
+**Direct Quantiﬁcation of Coronary Artery Stenosis Through Hierarchical Attentive Multi-View Learning**
 (https://ieeexplore.ieee.org/abstract/document/9169905/)  
 
 IEEE Transactions on Medical Imaging (2020)
